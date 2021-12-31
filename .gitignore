@@ -1,0 +1,2 @@
+# only ignore the zip file in current directory, not those in its subdirectories
+/*.zip

@@ -14,7 +14,7 @@
    3. Create a BLE Characteristic on the Service
    4. Create a BLE Descriptor on the characteristic
    5. Start the service.
-   6. Start advertising.
+   6. Start advertising. 7, 8, 9, 10, 11, 12, 13
 
    In this example rxValue is the data received (only accessible inside that function).
    And txValue is the data to be sent, in this example just a byte incremented every second. 
